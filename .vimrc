@@ -17,6 +17,8 @@ Plugin 'tpope/vim-fugitive'
 " Better status line
 Plugin 'vim-airline/vim-airline'
 Plugin 'vim-airline/vim-airline-themes'
+" Color scheme 
+Plugin 'lokaltog/vim-distinguished'
 
 " All Plugins must be set before this line
 call vundle#end()
